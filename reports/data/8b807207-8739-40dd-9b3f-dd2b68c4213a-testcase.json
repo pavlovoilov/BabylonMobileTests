@@ -1,0 +1,73 @@
+{
+  "uid" : "8b807207-8739-40dd-9b3f-dd2b68c4213a",
+  "name" : "AllureTests.test_successful_login",
+  "title" : "Test successful login",
+  "time" : {
+    "start" : 1409237439694,
+    "stop" : 1409237460136,
+    "duration" : 20442
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "steps" : [ {
+    "name" : "Set up",
+    "title" : "Set up",
+    "time" : {
+      "start" : 1409237439695,
+      "stop" : 1409237447897,
+      "duration" : 8202
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Test case #1",
+    "title" : "Test case #1",
+    "time" : {
+      "start" : 1409237447897,
+      "stop" : 1409237459471,
+      "duration" : 11574
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Tear down",
+    "title" : "Tear down",
+    "time" : {
+      "start" : 1409237459471,
+      "stop" : 1409237460134,
+      "duration" : 663
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Without feature"
+  }, {
+    "name" : "story",
+    "value" : "Without story"
+  } ],
+  "parameters" : [ ]
+}

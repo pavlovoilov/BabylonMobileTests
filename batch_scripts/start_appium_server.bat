@@ -1,0 +1,2 @@
+cd c:\dev\Appium
+start node node_modules\appium\bin\appium.js --app-pkg com.babylon --app-activity com.babylonpartners.babylon.MainActivity --app-wait-activity com.babylon.activity.RegistrationActivity --platform-version 4.4 

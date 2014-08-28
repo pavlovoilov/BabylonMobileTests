@@ -1,0 +1,56 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1409237424238" stop="1409237460137">
+  <name>tests.babylon_allure_test</name>
+  <test-cases>
+    <test-case severity="normal" start="1409237424238" status="passed" stop="1409237439693">
+      <name>AllureTests.test_powering</name>
+      <attachments/>
+      <labels/>
+      <steps>
+        <step start="1409237424240" status="passed" stop="1409237438932">
+          <title>Set up</title>
+          <name>Set up</name>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1409237438932" status="passed" stop="1409237438932">
+          <title>Test case #2</title>
+          <name>Test case #2</name>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1409237438932" status="passed" stop="1409237439692">
+          <title>Tear down</title>
+          <name>Tear down</name>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case severity="normal" start="1409237439694" status="passed" stop="1409237460136">
+      <name>AllureTests.test_successful_login</name>
+      <attachments/>
+      <labels/>
+      <steps>
+        <step start="1409237439695" status="passed" stop="1409237447897">
+          <title>Set up</title>
+          <name>Set up</name>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1409237447897" status="passed" stop="1409237459471">
+          <title>Test case #1</title>
+          <name>Test case #1</name>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1409237459471" status="passed" stop="1409237460134">
+          <title>Tear down</title>
+          <name>Tear down</name>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+  <labels/>
+</ns0:test-suite>

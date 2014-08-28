@@ -1,0 +1,48 @@
+{
+  "time" : {
+    "start" : 1409237424238,
+    "stop" : 1409237460137,
+    "duration" : 35899
+  },
+  "testSuites" : [ {
+    "uid" : "a34fadf1-9219-4da7-aab0-fcef5ef230f0",
+    "name" : "tests.babylon_allure_test",
+    "title" : "Babylon allure test",
+    "time" : {
+      "start" : 1409237424238,
+      "stop" : 1409237460137,
+      "duration" : 35899
+    },
+    "statistic" : {
+      "total" : 2,
+      "passed" : 2,
+      "skipped" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "b0e5d8b0-b500-4184-b378-969ac17cb017",
+      "name" : "AllureTests.test_powering",
+      "title" : "Test powering",
+      "time" : {
+        "start" : 1409237424238,
+        "stop" : 1409237439693,
+        "duration" : 15455
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    }, {
+      "uid" : "8b807207-8739-40dd-9b3f-dd2b68c4213a",
+      "name" : "AllureTests.test_successful_login",
+      "title" : "Test successful login",
+      "time" : {
+        "start" : 1409237439694,
+        "stop" : 1409237460136,
+        "duration" : 20442
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}
